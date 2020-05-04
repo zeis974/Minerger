@@ -1,7 +1,0 @@
-node_modules
-dist
-electron-builder.yml
-*.js
-*.json
-*.html
-!README.md
