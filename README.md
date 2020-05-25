@@ -2,7 +2,7 @@
 <h1 align="center">Minerger Canary</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/BUILD-DEV-orange?style=for-the-badge" alt="build">
-    <img src="https://img.shields.io/badge/VERSION-0.0.7-orange?style=for-the-badge" alt="version"> 
+    <img src="https://img.shields.io/badge/VERSION-0.0.8-orange?style=for-the-badge" alt="version"> 
     <img src="https://img.shields.io/badge/DIST-WINDOWS-blue?style=for-the-badge" alt="distribution">
 </p>
 <p align="center">
@@ -32,9 +32,9 @@
 | Plateforme | Fichier |
 | -------- | ---- |
 | Windows x64 | `Minerger-Canary-Setup.exe` |
-| Windows x32 | `En phase de test` |
-| macOS | `non disponible (en cours)` |
-| Linux x64 | `non disponible (en cours)` |
+| Windows x32 | `Non pris en charge, mais peut fonctionner` |
+| macOS |  `(en cours)` |
+| Linux x64 | `(en cours)` |
 
 **Merci d'aider au développement de ce projet ❤️**
 
