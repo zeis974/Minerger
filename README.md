@@ -6,10 +6,6 @@
     <img src="https://img.shields.io/badge/DIST-WINDOWS-blue?style=for-the-badge" alt="distribution">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/DIST-LINUX-inactive?style=for-the-badge" alt="distribution">
-  <img src="https://img.shields.io/badge/DIST-MACOS-inactive?style=for-the-badge" alt="distribution">
-</p>
-<p align="center">
   <img src="https://img.shields.io/discord/603664411529445573?style=for-the-badge&logo=discord" alt="chat on Discord">
 </p>
 
@@ -31,10 +27,13 @@
 
 | Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Minerger-Canary-Setup.exe` |
-| Windows x32 | `Non pris en charge, mais peut fonctionner` |
-| macOS |  `(en cours)` |
+| Windows x64 | `(en cours)` |
+| MacOS |  `(en cours)` |
+| MacOS (ARM)| `(en cours)` |
 | Linux x64 | `(en cours)` |
+| Ubuntu | `(en cours)` |
+| Debian | `(en cours)` |
+
 
 **Merci d'aider au développement de ce projet ❤️**
 
